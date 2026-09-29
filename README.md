@@ -10,6 +10,8 @@ A web-based car rental management system for browsing vehicles and managing rent
 
 ## Technologies
 HTML · CSS · JavaScript · PHP · MySQL · PDO
+
 🌐 **Live Website:** https://car-rental-system-tyob.vercel.app/?#services
+
 ## Author
 **Tyobsta Wodaj**
