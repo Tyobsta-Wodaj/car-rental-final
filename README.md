@@ -4,7 +4,7 @@ A web-based car rental management system for browsing vehicles and managing rent
 
 ## Preview
 
-![car-rental-final](Design/images/readme screenshot.png)
+![car-rental-final](Design/images/readme-screenshot.png)
 
 ## Features
 - Browse available cars
